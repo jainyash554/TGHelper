@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/itemadding" 
+        android:title="adding" 
+        android:showAsAction="always"
+         android:icon="@drawable/ic_person_add">
+        
+    </item>
+    <item android:id="@+id/itemrefreshing" 
+        android:icon="@drawable/ic_refresh_white_24dp"
+         android:title="refreshing"
+          android:showAsAction="always">
+        
+    </item>
+
+</menu>
